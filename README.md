@@ -1,2 +1,1 @@
-# Mixed-Messages-CA
-###Mixed Messages
+# Mixed Messages | A Codecademy Project
